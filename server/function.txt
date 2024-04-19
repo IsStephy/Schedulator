@@ -1,0 +1,1307 @@
+
+1) Teacher Name: A. Buga
+Courses:
+MT (Lab)
+2) Teacher Name: A. Cazac
+Courses:
+SDA (Lab)
+SDA (Seminar)
+3) Teacher Name: A. Costas
+Courses:
+MS (Curs)
+MS (Seminar)
+4) Teacher Name: A. Cozari
+Courses:
+RO (Seminar)
+5) Teacher Name: A. Gaidarii
+Courses:
+MD (Lab)
+6) Teacher Name: A. Gonta
+Courses:
+CSA (Curs)
+CSA (Seminar)
+7) Teacher Name: A. Lupusor
+Courses:
+CSA (Curs)
+CSA (Seminar)
+8) Teacher Name: A. Nastas
+Courses:
+GC (Lab)
+GC (Curs)
+9) Teacher Name: A. Popovici
+Courses:
+SA (Lab)
+10) Teacher Name: A. Puscasu
+Courses:
+LE (Seminar)
+11) Teacher Name: V. Orlov
+Courses:
+PP (Lab)
+12) Teacher Name: A. Rotari
+Courses:
+GC (Lab)
+13) Teacher Name: A. Rotari
+Courses:
+SDA (Lab)
+SDA (Seminar)
+14) Teacher Name: A. Sisianu
+Courses:
+LE (Seminar)
+15) Teacher Name: A. Ursu
+Courses:
+GC (Lab)
+16) Teacher Name: A. Vinari
+Courses:
+MD (Lab)
+MD (Seminar)
+17) Teacher Name: A. Zgureanu
+Courses:
+Crip (Curs)
+18) Teacher Name: C. Crudu
+Courses:
+LE (Seminar)
+19) Teacher Name: C. Fistic
+Courses:
+MN (Seminar)
+20) Teacher Name: C. Tintiuc
+Courses:
+LE (Seminar)
+21) Teacher Name: D. Barcari
+Courses:
+SDA (Lab)
+SDA (Seminar)
+22) Teacher Name: D. Cozma
+Courses:
+AM2 (Curs)
+AM2 (Seminar)
+23) Teacher Name: D. Istrati
+Courses:
+FR (Seminar)
+24) Teacher Name: D. Prijilevschi
+Courses:
+CSA (Seminar)
+25) Teacher Name: D. Zgardan
+Courses:
+BB (Curs)
+26) Teacher Name: E. Bucicovschi
+Courses:
+TW (Lab)
+TW (Curs)
+27) Teacher Name: E. Bucicovschi
+Courses:
+GC (Lab)
+28) Teacher Name: E. Ciobanu
+Courses:
+MD (Lab)
+MD (Seminar)
+29) Teacher Name: E. Cojuhari
+Courses:
+MS (Curs)
+MS (Seminar)
+30) Teacher Name: E. Cojuhari
+Courses:
+AM2 (Curs)
+AM2 (Seminar)
+31) Teacher Name: E. Gogoi
+Courses:
+LE (Curs)
+LE (Seminar)
+32) Teacher Name: E. Gogoi
+Courses:
+CSA (Curs)
+CSA (Seminar)
+33) Teacher Name: E. Hodinitu
+Courses:
+RO (Seminar)
+34) Teacher Name: E. Nemerenco
+Courses:
+Crip (Lab)
+35) Teacher Name: E. Nemerenco
+Courses:
+Crip (Lab)
+36) Teacher Name: E. Tocarschi
+Courses:
+CSA (Curs)
+CSA (Seminar)
+37) Teacher Name: G. Ceban
+Courses:
+MD (Curs)
+38) Teacher Name: G. Cebotari
+Courses:
+MD (Curs)
+MD (Seminar)
+39) Teacher Name: G. Flocea
+Courses:
+CSA (Curs)
+CSA (Seminar)
+40) Teacher Name: G. Marusic
+Courses:
+MD (Curs)
+41) Teacher Name: I. Balmus
+Courses:
+MT (Lab)
+42) Teacher Name: I. Balmus
+Courses:
+MT (Lab)
+MT (Curs)
+43) Teacher Name: I. Bodnariuc
+Courses:
+GC (Lab)
+GC (Curs)
+44) Teacher Name: I. Danilov
+Courses:
+SDA (Curs)
+45) Teacher Name: I. Lisnic
+Courses:
+MD (Lab)
+MD (Seminar)
+MD (Curs)
+46) Teacher Name: I. Sanduleac
+Courses:
+SA (Lab)
+SA (Seminar)
+47) Teacher Name: I. Sanduleac
+Courses:
+MT (Lab)
+MT (Curs)
+48) Teacher Name: L. Brinzan
+Courses:
+SDA (Lab)
+SDA (Seminar)
+49) Teacher Name: L. Dohotaru
+Courses:
+AM2 (Curs)
+50) Teacher Name: L. Mihail-Velescu
+Courses:
+LE (Seminar)
+51) Teacher Name: L. Rotaru
+Courses:
+GC (Curs)
+52) Teacher Name: V. Rusu
+Courses:
+MS (Seminar)
+53) Teacher Name: L. Stanciu
+Courses:
+AM2 (Seminar)
+54) Teacher Name: L. Tugarev
+Courses:
+CSA (Curs)
+CSA (Seminar)
+55) Teacher Name: A. Rotari
+Courses:
+MS (Seminar)
+56) Teacher Name: M. Gaidau
+Courses:
+Proiect (Seminar)
+57) Teacher Name: M. Golovaci
+Courses:
+RO (Seminar)
+58) Teacher Name: M. Gutu
+Courses:
+SDA (Lab)
+SDA (Seminar)
+59) Teacher Name: M. Kulev
+Courses:
+SDA (Curs)
+60) Teacher Name: M. Mantaluta
+Courses:
+SDA (Lab)
+SDA (Seminar)
+61) Teacher Name: M. Osovschi
+Courses:
+GC (Lab)
+62) Teacher Name: M. Rotaru
+Courses:
+Proiect (Seminar)
+63) Teacher Name: M. Rotaru
+Courses:
+MD (Lab)
+MD (Seminar)
+64) Teacher Name: N. Carbune
+Courses:
+CSA (Curs)
+CSA (Seminar)
+65) Teacher Name: N. Falico
+Courses:
+SDA (Curs)
+SDA (Seminar)
+SDA (Lab)
+66) Teacher Name: N. Lupoi
+Courses:
+AM2 (Seminar)
+67) Teacher Name: N. Palamarciuc
+Courses:
+MD (Lab)
+MD (Seminar)
+68) Teacher Name: N. Vladei
+Courses:
+BB (Lab)
+69) Teacher Name: N. Vladei
+Courses:
+BB (Lab)
+70) Teacher Name: O. Razdoroinaia
+Courses:
+SDA (Lab)
+SDA (Seminar)
+71) Teacher Name: O. Vacaras
+Courses:
+AM2 (Curs)
+AM2 (Seminar)
+72) Teacher Name: O. Vacaras
+Courses:
+MS (Seminar)
+73) Teacher Name: P. Chircu
+Courses:
+MS (Lab)
+MS (Curs)
+74) Teacher Name: P. Molosnic
+Courses:
+MS (Curs)
+MS (Seminar)
+75) Teacher Name: R. Braniste
+Courses:
+PP (Lab)
+PP (Curs)
+76) Teacher Name: R. Gorobet
+Courses:
+MT (Lab)
+77) Teacher Name: S. Andronic
+Courses:
+MT (Curs)
+78) Teacher Name: St. Stratulat
+Courses:
+SDA (Lab)
+SDA (Seminar)
+SDA (Curs)
+79) Teacher Name: T. Strukova
+Courses:
+MT (Lab)
+80) Teacher Name: T. Tiholaz
+Courses:
+MD (Lab)
+MD (Seminar)
+81) Teacher Name: V. Astafi
+Courses:
+MD (Lab)
+MD (Seminar)
+MD (Curs)
+82) Teacher Name: V. Bobicev
+Courses:
+TW (Curs)
+TW (Lab)
+83) Teacher Name: V. Bostan
+Courses:
+MN (Curs)
+84) Teacher Name: V. Carbune
+Courses:
+GC (Curs)
+85) Teacher Name: V. Melnic
+Courses:
+MD (Lab)
+MD (Seminar)
+MD (Curs)
+86) Teacher Name: V. Melnic
+Courses:
+AM2 (Curs)
+AM2 (Seminar)
+87) Teacher Name: V. Melnic
+Courses:
+Proiect (Seminar)
+88) Teacher Name: V. Mititelu
+Courses:
+SDA (Lab)
+SDA (Seminar)
+89) Teacher Name: V. Orlov
+Courses:
+AM2 (Curs)
+AM2 (Seminar)
+90) Teacher Name: V. Orlov
+Courses:
+MS (Curs)
+MS (Seminar)
+91) Teacher Name: V. Pricop
+Courses:
+AM2 (Curs)
+AM2 (Seminar)
+92) Teacher Name: V. Pricop
+Courses:
+MS (Curs)
+93) Teacher Name: V. Rusu
+Courses:
+SDA (Lab)
+SDA (Seminar)
+SDA (Curs)
+94) Teacher Name: V. Rusu
+Courses:
+MT (Lab)
+MT (Curs)
+95) Teacher Name: V. Seiciuc
+Courses:
+AM2 (Curs)
+AM2 (Seminar)
+96) Teacher Name: V. Struna
+Courses:
+PP (Lab)
+97) Teacher Name: V. Struna
+Courses:
+GC (Lab)
+98) Teacher Name: V. Subbotchin
+Courses:
+GC (Lab)
+99) Teacher Name: V. Toncu
+Courses:
+SDA (Lab)
+SDA (Seminar)
+SDA (Curs)
+100) Teacher Name: V. Tronciu
+Courses:
+SA (Curs)
+101) Teacher Name: V. Tutunaru
+Courses:
+SDA (Lab)
+SDA (Seminar)
+102) Teacher Name: A. Cazac
+Courses:
+SDA (Lab)
+SDA (Seminar)
+103) Teacher Name: A. Nastas
+Courses:
+GC (Lab)
+GC (Curs)
+104) Teacher Name: A. Puscasu
+Courses:
+LE (Seminar)
+105) Teacher Name: A. Sisianu
+Courses:
+LE (Seminar)
+106) Teacher Name: A. Ursu
+Courses:
+GC (Lab)
+107) Teacher Name: C. Tintiuc
+Courses:
+LE (Seminar)
+108) Teacher Name: D. Zgardan
+Courses:
+BB (Curs)
+109) Teacher Name: D. Zgardan
+Courses:
+BB (Curs)
+110) Teacher Name: E. Nemerenco
+Courses:
+Crip (Lab)
+111) Teacher Name: E. Nemerenco
+Courses:
+Crip (Lab)
+112) Teacher Name: I. Lisnic
+Courses:
+MD (Lab)
+MD (Seminar)
+MD (Curs)
+113) Teacher Name: L. Mihail-Velescu
+Courses:
+LE (Seminar)
+114) Teacher Name: L. Stanciu
+Courses:
+AM2 (Seminar)
+115) Teacher Name: N. Burlacu
+Courses:
+SDA (Lab)
+SDA (Seminar)
+SDA (Curs)
+116) Teacher Name: R. Braniste
+Courses:
+PP (Lab)
+PP (Curs)
+117) Teacher Name: V. Astafi
+Courses:
+MD (Lab)
+MD (Seminar)
+MD (Curs)
+118) Teacher Name: V. Rusu
+Courses:
+MS (Seminar)
+119) Teacher Name: V. Rusu
+Courses:
+MT (Lab)
+MT (Curs)
+
+
+
+1) Group Name: CR-231
+Courses:
+SDA (Seminar): 0.5 times/week
+MS (Seminar): 0.5 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+MT (Lab): 1 times/week
+SDA (Lab): 1 times/week
+MD (Curs): 1 times/week
+MS (Curs): 1 times/week
+SDA (Curs): 1 times/week
+MT (Curs): 1 times/week
+AM2 (Seminar): 1 times/week
+GC (Lab): 1 times/week
+MD (Lab): 1 times/week
+GC (Curs): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+MD (Seminar): 0.5 times/week
+LE (Seminar): 1 times/week 
+
+2) Group Name: CR-232
+Courses:
+MS (Seminar): 0.5 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+MD (Curs): 1 times/week
+MS (Curs): 1 times/week
+SDA (Lab): 1 times/week
+SDA (Curs): 1 times/week
+MT (Curs): 1 times/week
+LE (Seminar): 1 times/week
+AM2 (Seminar): 1 times/week
+GC (Lab): 1 times/week
+GC (Curs): 1 times/week
+CSA (Seminar): 0.5 times/week
+Ed. Fiz (Seminar): 0.5 times/week
+MD (Seminar): 0.5 times/week
+MT (Lab): 1 times/week
+MD (Lab): 1 times/week
+SDA (Seminar): 0.5 times/week 
+
+3) Group Name: RM-231
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+GC (Lab): 1 times/week
+MD (Curs): 1 times/week
+MS (Curs): 1 times/week
+SDA (Curs): 1 times/week
+MT (Curs): 1 times/week
+SDA (Lab): 1 times/week
+MS (Seminar): 0.5 times/week
+LE (Seminar): 1 times/week
+GC (Curs): 1 times/week
+MT (Lab): 1 times/week
+MD (Lab): 1 times/week
+MD (Seminar): 0.5 times/week
+Ed. Fiz (Seminar): 0.5 times/week 
+
+4) Group Name: MN-231/EA-231
+Courses:
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+CSA (Seminar): 0.5 times/week
+MS (Seminar): 0.5 times/week
+MD (Curs): 1 times/week
+MS (Curs): 1 times/week
+AM2 (Seminar): 1 times/week
+SDA (Curs): 1 times/week
+MT (Curs): 1 times/week
+SDA (Lab): 1 times/week
+GC (Curs): 1 times/week
+MD (Lab): 1 times/week
+MT (Lab): 1 times/week
+MD (Seminar): 0.5 times/week
+GC (Lab): 1 times/week
+LE (Seminar): 1 times/week
+SDA0.5 (Seminar):  times/week
+Ed. Fiz (Seminar): 0.5 times/week 
+
+5) Group Name: IBM-231
+Courses:
+SDA (Seminar): 1 times/week
+MS (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+MT (Lab): 1 times/week
+MS (Curs): 1 times/week
+SDA (Curs): 1 times/week
+MT (Curs): 1 times/week
+AM2 (Seminar): 1 times/week
+BB (Lab): 1 times/week
+BB (Curs): 1 times/week
+CSA (Seminar): 1 times/week
+MD (Seminar): 1 times/week
+LE (Seminar): 1 times/week
+GC (Lab): 1 times/week
+GC (Curs): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week 
+
+6) Group Name: FI-231
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+GC (Lab): 1 times/week
+MD (Curs): 1 times/week
+MS (Curs): 1 times/week
+SDA (Curs): 1 times/week
+MT (Curs): 1 times/week
+SDA (Lab): 1 times/week
+MS (Seminar): 1 times/week
+FR (Seminar): 1 times/week
+GC (Curs): 1 times/week
+MT (Lab): 1 times/week
+MD (Lab): 1 times/week
+MD (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week 
+
+7) Group Name: TI-231
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+GC (Lab): 1 times/week
+MD (Curs): 1 times/week
+MS (Curs): 1 times/week
+SDA (Curs): 1 times/week
+MT (Curs): 1 times/week
+SDA (Lab): 1 times/week
+MS (Seminar): 1 times/week
+LE (Seminar): 1 times/week
+GC (Curs): 1 times/week
+MT (Lab): 1 times/week
+MD (Lab): 1 times/week
+MD (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week 
+
+8) Group Name: TI-232
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+GC (Lab): 1 times/week
+MD (Curs): 1 times/week
+MS (Curs): 1 times/week
+SDA (Curs): 1 times/week
+MT (Curs): 1 times/week
+SDA (Lab): 1 times/week
+MS (Seminar): 1 times/week
+LE (Seminar): 1 times/week
+GC (Curs): 1 times/week
+MT (Lab): 1 times/week
+MD (Lab): 1 times/week
+MD (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week 
+
+9) Group Name: TI-233
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+GC (Lab): 1 times/week
+MD (Curs): 1 times/week
+MS (Curs): 1 times/week
+SDA (Curs): 1 times/week
+MT (Curs): 1 times/week
+SDA (Lab): 1 times/week
+MS (Seminar): 1 times/week
+LE (Seminar): 1 times/week
+GC (Curs): 1 times/week
+MT (Lab): 1 times/week
+MD (Lab): 1 times/week
+MD (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week 
+
+10) Group Name: TI-234
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+GC (Lab): 1 times/week
+MD (Curs): 1 times/week
+MS (Curs): 1 times/week
+SDA (Curs): 1 times/week
+MT (Curs): 1 times/week
+SDA (Lab): 1 times/week
+MS (Seminar): 1 times/week
+LE (Seminar): 1 times/week
+GC (Curs): 1 times/week
+MT (Lab): 1 times/week
+MD (Lab): 1 times/week
+MD (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week 
+
+11) Group Name: TI-235
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+GC (Lab): 1 times/week
+MD (Curs): 1 times/week
+MS (Curs): 1 times/week
+SDA (Curs): 1 times/week
+MT (Curs): 1 times/week
+SDA (Lab): 1 times/week
+MS (Seminar): 1 times/week
+LE (Seminar): 1 times/week
+GC (Curs): 1 times/week
+MT (Lab): 1 times/week
+MD (Lab): 1 times/week
+MD (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week 
+
+12) Group Name: TI-236
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+GC (Lab): 1 times/week
+MD (Curs): 1 times/week
+MS (Curs): 1 times/week
+SDA (Curs): 1 times/week
+MT (Curs): 1 times/week
+SDA (Lab): 1 times/week
+MS (Seminar): 1 times/week
+LE (Seminar): 1 times/week
+GC (Curs): 1 times/week
+MT (Lab): 1 times/week
+MD (Lab): 1 times/week
+MD (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week 
+
+13) Group Name: TI-237
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+GC (Lab): 1 times/week
+MD (Curs): 1 times/week
+MS (Curs): 1 times/week
+SDA (Curs): 1 times/week
+MT (Curs): 1 times/week
+SDA (Lab): 1 times/week
+MS (Seminar): 1 times/week
+LE (Seminar): 1 times/week
+GC (Curs): 1 times/week
+MT (Lab): 1 times/week
+MD (Lab): 1 times/week
+MD (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week 
+
+14) Group Name: SI-231
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+Crip (Curs): 1 times/week
+MD (Curs): 1 times/week
+MS (Curs): 1 times/week
+SDA (Curs): 1 times/week
+MT (Curs): 1 times/week
+SDA (Lab): 1 times/week
+MS (Seminar): 1 times/week
+LE (Seminar): 1 times/week
+Crip (Lab): 1 times/week
+MT (Lab): 1 times/week
+MD (Lab): 1 times/week
+MD (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week 
+
+15) Group Name: SI-232
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+Crip (Curs): 1 times/week
+MD (Curs): 1 times/week
+MS (Curs): 1 times/week
+SDA (Curs): 1 times/week
+MT (Curs): 1 times/week
+SDA (Lab): 1 times/week
+MS (Seminar): 1 times/week
+LE (Seminar): 1 times/week
+Crip (Lab): 1 times/week
+MT (Lab): 1 times/week
+MD (Lab): 1 times/week
+MD (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week 
+
+16) Group Name: AI-231
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+GC (Lab): 1 times/week
+MD (Curs): 1 times/week
+MS (Curs): 1 times/week
+SDA (Curs): 1 times/week
+MT (Curs): 1 times/week
+SDA (Lab): 1 times/week
+MS (Seminar): 1 times/week
+LE (Seminar): 1 times/week
+GC (Curs): 1 times/week
+MT (Lab): 1 times/week
+MD (Lab): 1 times/week
+MD (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week 
+
+17) Group Name: AI-232
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+GC (Lab): 1 times/week
+MD (Curs): 1 times/week
+MS (Curs): 1 times/week
+SDA (Curs): 1 times/week
+MT (Curs): 1 times/week
+SDA (Lab): 1 times/week
+MS (Seminar): 1 times/week
+LE (Seminar): 1 times/week
+GC (Curs): 1 times/week
+MT (Lab): 1 times/week
+MD (Lab): 1 times/week
+MD (Seminar): 1 times/week
+RO (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week 
+
+18) Group Name: CR-233
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+GC (Lab): 1 times/week
+MD (Curs): 1 times/week
+MS (Curs): 1 times/week
+SDA (Curs): 1 times/week
+MT (Curs): 1 times/week
+SDA (Lab): 1 times/week
+MS (Seminar): 1 times/week
+LE (Seminar): 1 times/week
+GC (Curs): 1 times/week
+MT (Lab): 1 times/week
+MD (Lab): 1 times/week
+MD (Seminar): 1 times/week
+RO (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week 
+
+19) Group Name: MN/EA-232
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+GC (Lab): 1 times/week
+MD (Curs): 1 times/week
+MS (Curs): 1 times/week
+SDA (Curs): 1 times/week
+MT (Curs): 1 times/week
+SDA (Lab): 1 times/week
+MS (Seminar): 1 times/week
+LE (Seminar): 1 times/week
+GC (Curs): 1 times/week
+MT (Lab): 1 times/week
+MD (Lab): 1 times/week
+MD (Seminar): 1 times/week
+RO (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week 
+
+20) Group Name: IBM-232
+Courses:
+SDA (Seminar): 1 times/week
+MS (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+MT (Lab): 1 times/week
+MS (Curs): 1 times/week
+SDA (Curs): 1 times/week
+MT (Curs): 1 times/week
+AM2 (Seminar): 1 times/week
+BB (Lab): 1 times/week
+BB (Curs): 1 times/week
+SA (Seminar): 1 times/week
+CSA (Seminar): 1 times/week
+MD (Seminar): 1 times/week
+LE (Seminar): 1 times/week
+GC (Lab): 1 times/week
+GC (Curs): 1 times/week
+RO (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week 
+
+21) Group Name: SI-233
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+Crip (Curs): 1 times/week
+MD (Curs): 1 times/week
+MS (Curs): 1 times/week
+SDA (Curs): 1 times/week
+MT (Curs): 1 times/week
+SDA (Lab): 1 times/week
+MS (Seminar): 1 times/week
+LE (Seminar): 1 times/week
+Crip (Lab): 1 times/week
+MT (Lab): 1 times/week
+MD (Lab): 1 times/week
+MD (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week
+RO (Seminar): 1 times/week 
+
+22) Group Name: SI-234
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+Crip (Curs): 1 times/week
+MD (Curs): 1 times/week
+MS (Curs): 1 times/week
+SDA (Curs): 1 times/week
+MT (Curs): 1 times/week
+SDA (Lab): 1 times/week
+MS (Seminar): 1 times/week
+LE (Seminar): 1 times/week
+Crip (Lab): 1 times/week
+MT (Lab): 1 times/week
+MD (Lab): 1 times/week
+MD (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week
+RO (Seminar): 1 times/week 
+
+23) Group Name: TI-238
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+GC (Lab): 1 times/week
+MD (Curs): 1 times/week
+MS (Curs): 1 times/week
+SDA (Curs): 1 times/week
+MT (Curs): 1 times/week
+SDA (Lab): 1 times/week
+MS (Seminar): 1 times/week
+LE (Seminar): 1 times/week
+GC (Curs): 1 times/week
+MT (Lab): 1 times/week
+MD (Lab): 1 times/week
+MD (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week
+RO (Seminar): 1 times/week 
+
+24) Group Name: TI-239
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+GC (Lab): 1 times/week
+MD (Curs): 1 times/week
+MS (Curs): 1 times/week
+SDA (Curs): 1 times/week
+MT (Curs): 1 times/week
+SDA (Lab): 1 times/week
+MS (Seminar): 1 times/week
+LE (Seminar): 1 times/week
+GC (Curs): 1 times/week
+MT (Lab): 1 times/week
+MD (Lab): 1 times/week
+MD (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week
+RO (Seminar): 1 times/week 
+
+25) Group Name: TI-2310
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+GC (Lab): 1 times/week
+MD (Curs): 1 times/week
+MS (Curs): 1 times/week
+SDA (Curs): 1 times/week
+MT (Curs): 1 times/week
+SDA (Lab): 1 times/week
+MS (Seminar): 1 times/week
+LE (Seminar): 1 times/week
+GC (Curs): 1 times/week
+MT (Lab): 1 times/week
+MD (Lab): 1 times/week
+MD (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week
+RO (Seminar): 1 times/week 
+
+26) Group Name: IA-231
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+GC (Lab): 1 times/week
+MD (Curs): 1 times/week
+PP (Curs): 1 times/week
+SDA (Curs): 1 times/week
+TW (Curs): 1 times/week
+SDA (Lab): 1 times/week
+PP (Lab): 1 times/week
+LE (Seminar): 1 times/week
+GC (Curs): 1 times/week
+TW (Lab): 1 times/week
+MD (Lab): 1 times/week
+MD (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week 
+
+27) Group Name: IA-232
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+GC (Lab): 1 times/week
+MD (Curs): 1 times/week
+PP (Curs): 1 times/week
+SDA (Curs): 1 times/week
+TW (Curs): 1 times/week
+SDA (Lab): 1 times/week
+PP (Lab): 1 times/week
+LE (Seminar): 1 times/week
+GC (Curs): 1 times/week
+TW (Lab): 1 times/week
+MD (Lab): 1 times/week
+MD (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week 
+
+28) Group Name: IA-233
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+GC (Lab): 1 times/week
+MD (Curs): 1 times/week
+PP (Curs): 1 times/week
+SDA (Curs): 1 times/week
+TW (Curs): 1 times/week
+SDA (Lab): 1 times/week
+PP (Lab): 1 times/week
+LE (Seminar): 1 times/week
+GC (Curs): 1 times/week
+TW (Lab): 1 times/week
+MD (Lab): 1 times/week
+MD (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week 
+
+29) Group Name: SD-231
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+GC (Lab): 1 times/week
+MD (Curs): 1 times/week
+PP (Curs): 1 times/week
+SDA (Curs): 1 times/week
+TW (Curs): 1 times/week
+SDA (Lab): 1 times/week
+PP (Lab): 1 times/week
+LE (Seminar): 1 times/week
+GC (Curs): 1 times/week
+TW (Lab): 1 times/week
+MD (Lab): 1 times/week
+MD (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week 
+
+30) Group Name: IA-234
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+GC (Lab): 1 times/week
+MD (Curs): 1 times/week
+PP (Curs): 1 times/week
+SDA (Curs): 1 times/week
+TW (Curs): 1 times/week
+SDA (Lab): 1 times/week
+PP (Lab): 1 times/week
+LE (Seminar): 1 times/week
+GC (Curs): 1 times/week
+TW (Lab): 1 times/week
+MD (Lab): 1 times/week
+MD (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week
+RO (Seminar): 1 times/week 
+
+31) Group Name: IA-235
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+GC (Lab): 1 times/week
+MD (Curs): 1 times/week
+PP (Curs): 1 times/week
+SDA (Curs): 1 times/week
+TW (Curs): 1 times/week
+SDA (Lab): 1 times/week
+PP (Lab): 1 times/week
+LE (Seminar): 1 times/week
+GC (Curs): 1 times/week
+TW (Lab): 1 times/week
+MD (Lab): 1 times/week
+MD (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week
+RO (Seminar): 1 times/week 
+
+32) Group Name: SD-232
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+GC (Lab): 1 times/week
+MD (Curs): 1 times/week
+PP (Curs): 1 times/week
+SDA (Curs): 1 times/week
+TW (Curs): 1 times/week
+SDA (Lab): 1 times/week
+PP (Lab): 1 times/week
+LE (Seminar): 1 times/week
+GC (Curs): 1 times/week
+TW (Lab): 1 times/week
+MD (Lab): 1 times/week
+MD (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week
+RO (Seminar): 1 times/week 
+
+33) Group Name: FAF-231
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+SA (Lab): 1 times/week
+MS (Curs): 1 times/week
+MN (Curs): 1 times/week
+SDA (Curs): 1 times/week
+SA (Curs): 1 times/week
+SDA (Lab): 1 times/week
+LE (Seminar): 1 times/week
+Proiect (Seminar): 1 times/week
+MN (Seminar): 1 times/week
+MS (Seminar): 0.5 times/week
+SA (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week 
+
+34) Group Name: FAF-232
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+SA (Lab): 1 times/week
+MS (Curs): 1 times/week
+MN (Curs): 1 times/week
+SDA (Curs): 1 times/week
+SA (Curs): 1 times/week
+SDA (Lab): 1 times/week
+LE (Seminar): 1 times/week
+Proiect (Seminar): 1 times/week
+MN (Seminar): 1 times/week
+MS (Seminar): 0.5 times/week
+SA (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week 
+
+35) Group Name: FAF-233
+Courses:
+AM2 (Seminar): 1 times/week
+AM2 (Curs): 1 times/week
+CSA (Curs): 1 times/week
+SDA (Seminar): 0.5 times/week
+CSA (Seminar): 0.5 times/week
+SA (Lab): 1 times/week
+MS (Curs): 1 times/week
+MN (Curs): 1 times/week
+SDA (Curs): 1 times/week
+SA (Curs): 1 times/week
+SDA (Lab): 1 times/week
+LE (Seminar): 1 times/week
+Proiect (Seminar): 1 times/week
+MN (Seminar): 1 times/week
+MS (Seminar): 0.5 times/week
+SA (Seminar): 1 times/week
+Ed. Fiz (Seminar): 0.5 times/week 
+
+
+
+
+1) Office Name: 6-2
+Office Type: Curs
+2) Office Name: 104
+Office Type: Curs
+3) Office Name: 3-3
+Office Type: Curs
+4) Office Name: 404
+Office Type: Curs
+5) Office Name: 203
+Office Type: Curs
+6) Office Name: 622
+Office Type: Curs
+7) Office Name: 5-412
+Office Type: Curs
+8) Office Name: 609
+Office Type: Curs
+9) Office Name: 401
+Office Type: Curs
+10) Office Name: 405
+Office Type: Curs
+11) Office Name: 618
+Office Type: Seminar
+12) Office Name: 611
+Office Type: Seminar
+13) Office Name: 623
+Office Type: Seminar
+14) Office Name: 624
+Office Type: Seminar
+15) Office Name: 606
+Office Type: Seminar
+16) Office Name: 607
+Office Type: Seminar
+17) Office Name: 613
+Office Type: Seminar
+18) Office Name: 404
+Office Type: Seminar
+19) Office Name: 407
+Office Type: Seminar
+20) Office Name: 707
+Office Type: Seminar
+21) Office Name: 718
+Office Type: Seminar
+22) Office Name: 203
+Office Type: Seminar
+23) Office Name: 622
+Office Type: Seminar
+24) Office Name: 5-412
+Office Type: Seminar
+25) Office Name: 609
+Office Type: Seminar
+26) Office Name: 312
+Office Type: Seminar
+27) Office Name: 601
+Office Type: Seminar
+28) Office Name: 201
+Office Type: Seminar
+29) Office Name: 202
+Office Type: Seminar
+30) Office Name: 512
+Office Type: Seminar
+31) Office Name: 401
+Office Type: Seminar
+32) Office Name: 501
+Office Type: Seminar
+33) Office Name: 519
+Office Type: Seminar
+34) Office Name: 630
+Office Type: Seminar
+35) Office Name: 524
+Office Type: Seminar
+36) Office Name: 722
+Office Type: Seminar
+37) Office Name: 224
+Office Type: Seminar
+38) Office Name: 115
+Office Type: Seminar
+39) Office Name: 118
+Office Type: Seminar
+40) Office Name: 113
+Office Type: Seminar
+41) Office Name: 110
+Office Type: Lab
+42) Office Name: 215
+Office Type: Lab
+43) Office Name: D-01
+Office Type: Lab
+44) Office Name: D-03
+Office Type: Lab
+45) Office Name: D-02
+Office Type: Lab
+46) Office Name: 212
+Office Type: Lab
+47) Office Name: 407
+Office Type: Lab
+48) Office Name: 217
+Office Type: Lab
+49) Office Name: 5-114
+Office Type: Lab
+50) Office Name: 622
+Office Type: Lab
+51) Office Name: D-04
+Office Type: Lab
+52) Office Name: 6-414A
+Office Type: Lab
+53) Office Name: 112
+Office Type: Lab
+54) Office Name: 114
+Office Type: Lab
+55) Office Name: 501
+Office Type: Lab
+56) Office Name: 503
+Office Type: Lab
+57) Office Name: 608
+Office Type: Lab
+58) Office Name: 513A
+Office Type: Lab
+59) Office Name: 513 B
+Office Type: Lab
+60) Office Name: 516
+Office Type: Lab
+61) Office Name: 518
+Office Type: Lab
+62) Office Name: 619
+Office Type: Lab
+63) Office Name: 214
+Office Type: Lab
+64) Office Name: 301
+Office Type: Lab
+65) Office Name: 303
+Office Type: Lab
+66) Office Name: 118
+Office Type: Lab

@@ -1,0 +1,65 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    margin-left: 122px;
+    font-weight: bold;
+    font-size: 128px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    font-family:'Courier New', Courier, monospace
+}
+
+.submit-container{
+    display:flex;
+    gap: 30px;
+    margin-left:100px;
+}
+
+.start{
+    display: flex;
+    width:250px;
+    height:59px;
+    color:#fff;
+    align-items:center;
+    font-size: 32px;
+    font-weight: 700;
+    cursor:pointer;
+    padding-left: 67px;
+    margin-top:50px;
+    margin-left:50px;
+    background:#E85D56;
+    border-radius: 100px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+    
+}
+
+.login{
+    padding-left:200px;
+    color:#797979;
+    font-size: 18px;
+}
+.login span{
+    color:#4c00b4;
+    cursor:pointer;
+}
+/*
+.background {
+    position: absolute;
+    width: 100%; 
+    left: 500px; 
+    top: 0px; 
+    opacity:0.5;
+  
+    
+    background-image: url('../../Assets/background.jpg');
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-color: rgba(0, 0, 0, 0.5); 
+  }
+  */
+
+.login-box{
+    background-color: aqua;
+    
+}

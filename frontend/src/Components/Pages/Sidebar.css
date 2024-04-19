@@ -1,0 +1,79 @@
+.page-border {
+    position: absolute;
+    top: 50%; /* Position at the vertical center */
+    left: 50%; /* Position at the horizontal center */
+    transform: translate(-50%, -50%); /* Center the element precisely */
+    background-color: #ce9491;
+    height: calc(100% - 40px);
+    width: calc(100% - 40px); /* Calculate width to leave space for Sidebar */
+    padding: 20px; /* Add padding inside the border */
+    padding-left: px;
+    box-sizing: border-box; /* Include padding and border in the total width */
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center children vertically */
+    backdrop-filter: blur(10px); /* Apply backdrop blur for a translucent effect */
+    border-radius: 50px;
+  }
+
+  .naming-box{
+    position:absolute;
+    right:-20px;
+    top:-20px;
+    background-color: #F5E9DD;
+    width: 300px;
+    height: 75px;
+    border-radius: 20px;
+    transform: skew(20deg); /* Skew the element to create a trapezoid shape */
+    z-index: 1; /* Ensure naming-box is above other content */
+  }
+
+.Sidebar {
+    padding-top: 100px;
+    height:auto;
+    width:210px;
+    
+}
+
+
+
+.sidebar_list{
+    background-color: white;
+    height: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 10px;
+    width:100%;
+    color:black;
+    padding-left:0;
+    border-radius: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+
+}
+
+.sidebar_list .row{
+    padding-top:20px;
+    list-style: none;
+    display:flex;
+    flex-direction: row;
+    font-size: 25px;
+
+}
+.sidebar_list #active{
+    background-color: #C18E7B;
+    border-radius: 10px;
+}
+
+.sidebar_list #icon{
+    padding-left:10px; 
+    padding-right:10px;
+    padding-bottom: auto; 
+}
+
+.sidebar_list .row:hover{
+    background-color:#C18E7B ;
+    cursor: pointer;
+    border-radius: 10px;
+    
+}
+
