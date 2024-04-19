@@ -25,29 +25,41 @@ export const LoginPage = () => {
   };
 
   return (
-    <div className="login-box">
-      <h1>Log Into Your Account</h1>
-      <form>
-        <div>
-          <label>Email: </label>
-          <input
-            type="text"
-            value={email}
-            onChange={(e) => setEmail(e.target.value)}
-          />
-        </div>
-        <div>
-          <label>Password: </label>
-          <input
-            type="password"
-            value={password}
-            onChange={(e) => setPassword(e.target.value)}
-          />
-        </div>
-        <button type="button" onClick={logInUser}>
-          Submit
-        </button>
-      </form>
+    <div className="login-page">
+      <div className="login-box">
+        <h1>Log Into Your Account</h1>
+        <form>
+          <div>
+            <div className="info-box">
+                <div className="var-name">
+                  <label>Email: </label>
+                </div>
+                <input
+                  className="info"
+                  type="text"
+                  value={email}
+                  onChange={(e) => setEmail(e.target.value)}
+                />
+              </div>
+            </div>
+            <div>
+              <div className="info-box">
+                <div className="var-name">
+                  <label>Password: </label>
+                </div>
+                <input
+                  className="info"
+                  type="password"
+                  value={password}
+                  onChange={(e) => setPassword(e.target.value)}
+                />
+              </div>
+            </div>
+            <button type="button" onClick={logInUser}>
+              Submit
+            </button>
+        </form>
+      </div>
     </div>
   );
 };

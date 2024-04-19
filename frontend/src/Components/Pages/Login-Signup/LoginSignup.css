@@ -58,8 +58,41 @@
     background-color: rgba(0, 0, 0, 0.5); 
   }
   */
+.info{
+  text-align: center;
+  width: 200px;
+  border: 2px solid #333;
+  background-color: #e0c271;
+  
+}
+.info-box{
+    display:flex;
+    flex-direction: row;
+}
+.var-name{
+    text-decoration: #4c00b4;
+    display: flex;
+    width: 80px;
+    flex-direction: row;
+    margin-left:20px;
+}
+
+.login-page{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    height: 100vh;
+}
 
 .login-box{
-    background-color: aqua;
-    
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(177, 88, 28);
+    align-self: center;
+    width: 70vh;
+    height:30vh;
+    border-radius: 10px;
 }
