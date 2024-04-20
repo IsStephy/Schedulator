@@ -2,12 +2,12 @@ import json
 import networkx as nx
 import matplotlib.pyplot as plt
 from classes import Teacher, Course, Group, Offices
-from models import db, User
+from models import db
 
 
 def load_data_from_json(user_id):
     user = db.query.get(user_id)
-    data = json.load(user.schedule_data)
+    data = json.load(user.ScheduleData)
     teachers, courses, groups, offices = [], [], [], []
     for entry in data:
         if entry['type'] == 'Teacher':

@@ -1,8 +1,9 @@
 import json
 from classes import Teacher, Group, Offices
-def load_data_from_json(file_path):
-    with open(file_path, 'r') as file:
-        data = json.load(file)
+from models import db, User
+def load_data_from_json(user_id):
+    user = db.query.get(user_id)
+    data = json.load(user.ScheduleData)
     teachers, groups, offices = [], [], []
     for entry in data:
         if entry['type'] == 'Teacher':
@@ -42,19 +43,9 @@ def Office(offices):
 
   
 
-if __name__ == "__main__":
-    json_file = "file_1.json"
-    file_path = "function.txt"
-    teachers, groups, offices = load_data_from_json(json_file)
+def functions(user_id):
+    teachers, groups, offices = load_data_from_json(user_id)
     number_of_teacher,teacher_list = Teach(teachers)
     number_of_groups, group_list = Grup(groups)
     number_of_offices, office_list = Office(offices)
-    with open(file_path, 'w') as file:
-        for i in range(number_of_teacher):
-            file.write(f"\n{i+1}) {teacher_list[i]}")
-        file.write("\n\n\n")
-        for i in range(number_of_groups):
-            file.write(f"\n{i+1}) {group_list[i]} \n")
-        file.write("\n\n\n")
-        for i in range(number_of_offices):
-            file.write(f"\n{i+1}) {office_list[i]}")
+    return number_of_teacher,number_of_groups,number_of_offices,teacher_list,group_list,office_list

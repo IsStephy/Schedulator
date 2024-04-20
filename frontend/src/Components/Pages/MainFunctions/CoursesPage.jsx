@@ -5,6 +5,9 @@ function DashboardPage() {
   return(
     <div>
       <Sidebar />
+      <div className="dataDisplay">
+        
+      </div>
     </div>
   )
 }
