@@ -55,7 +55,8 @@ export const LoginPage = () => {
                 />
               </div>
             </div>
-            <button type="button" onClick={logInUser}>
+
+            <button type="button" className="submit-button" onClick={logInUser}>
               Submit
             </button>
         </form>

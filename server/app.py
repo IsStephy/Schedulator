@@ -60,12 +60,21 @@ def login_user():
         "id": user.id,
         "email": user.email
     })
+
+
+
 def create_the_schedule():
-    json_file = "file_1.json"
-    G, colors = create_graph_and_apply_coloring(json_file)
+    G, colors = create_graph_and_apply_coloring(get_current_user_id())
     df = create_schedule_dataframe(G, colors)
     save_schedule_as_image(df, 'weekly_schedule.png')
 
+def get_current_user_id():
+    user_id = session.get('user_id', None)
+    if user_id is None:
+        # Handle the case where there is no user logged in
+        return None
+    return user_id
+
 if __name__ == "__main__":
     app.run()
-#app
+    create_the_schedule()

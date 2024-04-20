@@ -1819,6 +1819,45 @@
         }
     },
     {
+        "type": "Teacher",
+        "data": {
+            "name": " ",
+            "courses": [
+                [
+                    "Ed. Fiz",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": " ",
+            "courses": [
+                [
+                    "Ed. Fiz",
+                    "Seminar"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": " ",
+            "courses": [
+                [
+                    "Ed. Fiz",
+                    "Seminar"
+                ]
+            ],
+            "language": "English"
+        }
+    },
+    {
         "type": "Group",
         "data": {
             "name": "CR-231",
@@ -1826,12 +1865,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "MS",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "AM2",
@@ -1896,17 +1935,17 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "MD",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "LE",
@@ -1925,7 +1964,7 @@
                 [
                     "MS",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "AM2",
@@ -1985,17 +2024,17 @@
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "MD",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "MT",
@@ -2010,7 +2049,7 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ]
             ],
             "language": "Romanian"
@@ -2039,12 +2078,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "GC",
@@ -2079,7 +2118,7 @@
                 [
                     "MS",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "LE",
@@ -2104,12 +2143,12 @@
                 [
                     "MD",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ]
             ],
             "language": "Romanian"
@@ -2133,12 +2172,12 @@
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "MS",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "MD",
@@ -2188,7 +2227,7 @@
                 [
                     "MD",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "GC",
@@ -2201,14 +2240,14 @@
                     1
                 ],
                 [
-                    "SDA0.5",
+                    "SDA1",
                     "Seminar",
                     ""
                 ],
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ]
             ],
             "language": "Romanian"
@@ -2302,7 +2341,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ]
             ],
             "language": "Romanian"
@@ -2331,12 +2370,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "GC",
@@ -2370,7 +2409,7 @@
                 ],
                 [
                     "MS",
-                    "Seminar",
+                    "Lab",
                     1
                 ],
                 [
@@ -2401,7 +2440,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ]
             ],
             "language": "French"
@@ -2430,12 +2469,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "GC",
@@ -2500,7 +2539,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ]
             ],
             "language": "Romanian"
@@ -2529,12 +2568,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "GC",
@@ -2599,7 +2638,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ]
             ],
             "language": "Romanian"
@@ -2628,12 +2667,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "GC",
@@ -2698,7 +2737,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ]
             ],
             "language": "Romanian"
@@ -2727,12 +2766,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "GC",
@@ -2797,7 +2836,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ]
             ],
             "language": "Romanian"
@@ -2826,12 +2865,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "GC",
@@ -2896,7 +2935,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ]
             ],
             "language": "Romanian"
@@ -2925,12 +2964,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "GC",
@@ -2995,7 +3034,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ]
             ],
             "language": "Romanian"
@@ -3024,12 +3063,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "GC",
@@ -3094,7 +3133,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ]
             ],
             "language": "Romanian"
@@ -3123,12 +3162,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "Crip",
@@ -3193,7 +3232,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ]
             ],
             "language": "Romanian"
@@ -3222,12 +3261,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "Crip",
@@ -3292,7 +3331,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ]
             ],
             "language": "Romanian"
@@ -3321,12 +3360,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "GC",
@@ -3391,7 +3430,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ]
             ],
             "language": "Romanian"
@@ -3420,12 +3459,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "GC",
@@ -3495,7 +3534,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ]
             ],
             "language": "Russian"
@@ -3524,12 +3563,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "GC",
@@ -3599,7 +3638,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ]
             ],
             "language": "Russian"
@@ -3628,12 +3667,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "GC",
@@ -3703,7 +3742,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ]
             ],
             "language": "Russian"
@@ -3807,7 +3846,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ]
             ],
             "language": "Russian"
@@ -3836,12 +3875,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "Crip",
@@ -3906,7 +3945,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "RO",
@@ -3940,12 +3979,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "Crip",
@@ -4010,7 +4049,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "RO",
@@ -4044,12 +4083,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "GC",
@@ -4114,7 +4153,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "RO",
@@ -4148,12 +4187,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "GC",
@@ -4218,7 +4257,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "RO",
@@ -4252,12 +4291,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "GC",
@@ -4322,7 +4361,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "RO",
@@ -4356,12 +4395,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "GC",
@@ -4426,7 +4465,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ]
             ],
             "language": "Romanian"
@@ -4455,12 +4494,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "GC",
@@ -4525,7 +4564,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ]
             ],
             "language": "Romanian"
@@ -4554,12 +4593,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "GC",
@@ -4624,7 +4663,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ]
             ],
             "language": "Romanian"
@@ -4653,12 +4692,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "GC",
@@ -4723,7 +4762,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ]
             ],
             "language": "Romanian"
@@ -4752,12 +4791,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "GC",
@@ -4822,7 +4861,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "RO",
@@ -4856,12 +4895,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "GC",
@@ -4926,7 +4965,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "RO",
@@ -4960,12 +4999,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "GC",
@@ -5030,7 +5069,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "RO",
@@ -5064,12 +5103,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "SA",
@@ -5119,7 +5158,7 @@
                 [
                     "MS",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "SA",
@@ -5129,7 +5168,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ]
             ],
             "language": "English"
@@ -5158,12 +5197,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "SA",
@@ -5213,7 +5252,7 @@
                 [
                     "MS",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "SA",
@@ -5223,7 +5262,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ]
             ],
             "language": "English"
@@ -5252,12 +5291,12 @@
                 [
                     "SDA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "CSA",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "SA",
@@ -5307,7 +5346,7 @@
                 [
                     "MS",
                     "Seminar",
-                    0.5
+                    1
                 ],
                 [
                     "SA",
@@ -5317,7 +5356,7 @@
                 [
                     "Ed. Fiz",
                     "Seminar",
-                    0.5
+                    1
                 ]
             ],
             "language": "English"
@@ -5327,6 +5366,2586 @@
         "type": "Course",
         "data": {
             "name": "SDA",
+            "course_type": "Seminar"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "Ed. Fiz",
+            "course_type": "Seminar"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "MS",
+            "course_type": "Seminar"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "AM2",
+            "course_type": "Curs"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "CSA",
+            "course_type": "Curs"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "MT",
+            "course_type": "Lab"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "MD",
+            "course_type": "Curs"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "MS",
+            "course_type": "Curs"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "SDA",
+            "course_type": "Lab"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "SDA",
+            "course_type": "Curs"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "MT",
+            "course_type": "Curs"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "AM2",
+            "course_type": "Seminar"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "LE",
+            "course_type": "Seminar"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "GC",
+            "course_type": "Lab"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "MD",
+            "course_type": "Lab"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "CSA",
+            "course_type": "Seminar"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "MD",
+            "course_type": "Seminar"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "BB",
+            "course_type": "Curs"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "BB",
+            "course_type": "Lab"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "GC",
+            "course_type": "Curs"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "FR",
+            "course_type": "Seminar"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "MS",
+            "course_type": "Lab"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "Crip",
+            "course_type": "Curs"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "Crip",
+            "course_type": "Lab"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "RO",
+            "course_type": "Seminar"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "PP",
+            "course_type": "Lab"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "PP",
+            "course_type": "Curs"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "TW",
+            "course_type": "Lab"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "TW",
+            "course_type": "Curs"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "Proiect",
+            "course_type": "Seminar"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "SA",
+            "course_type": "Seminar"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "SA",
+            "course_type": "Lab"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "MN",
+            "course_type": "Seminar"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "SA",
+            "course_type": "Curs"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "MN",
+            "course_type": "Curs "
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "6-2",
+            "office_type": "Curs"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "104",
+            "office_type": "Curs"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "3-3",
+            "office_type": "Curs"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "404",
+            "office_type": "Curs"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "203",
+            "office_type": "Curs"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "622",
+            "office_type": "Curs"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "5-412",
+            "office_type": "Curs"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "609",
+            "office_type": "Curs"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "401",
+            "office_type": "Curs"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "405",
+            "office_type": "Curs"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "618",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "611",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "623",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "624",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "606",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "607",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "613",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "404",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "407",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "707",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "718",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "203",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "622",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "5-412",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "609",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "312",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "601",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "201",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "202",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "512",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "401",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "501",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "519",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "630",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "524",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "722",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "224",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "115",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "118",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "113",
+            "office_type": "Seminar"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "110",
+            "office_type": "Lab"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "215",
+            "office_type": "Lab"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "D-01",
+            "office_type": "Lab"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "D-03",
+            "office_type": "Lab"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "D-02",
+            "office_type": "Lab"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "212",
+            "office_type": "Lab"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "407",
+            "office_type": "Lab"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "217",
+            "office_type": "Lab"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "5-114",
+            "office_type": "Lab"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "622",
+            "office_type": "Lab"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "D-04",
+            "office_type": "Lab"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "6-414A",
+            "office_type": "Lab"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "112",
+            "office_type": "Lab"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "114",
+            "office_type": "Lab"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "501",
+            "office_type": "Lab"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "503",
+            "office_type": "Lab"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "608",
+            "office_type": "Lab"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "513A",
+            "office_type": "Lab"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "513 B",
+            "office_type": "Lab"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "516",
+            "office_type": "Lab"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "518",
+            "office_type": "Lab"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "619",
+            "office_type": "Lab"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "214",
+            "office_type": "Lab"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "301",
+            "office_type": "Lab"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "303",
+            "office_type": "Lab"
+        }
+    },
+    {
+        "type": "Office",
+        "data": {
+            "name": "118",
+            "office_type": "Lab"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "A. Buga",
+            "courses": [
+                [
+                    "MT",
+                    "Lab"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "A. Cazac",
+            "courses": [
+                [
+                    "SDA",
+                    "Lab"
+                ],
+                [
+                    "SDA",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "A. Costas",
+            "courses": [
+                [
+                    "MS",
+                    "Curs"
+                ],
+                [
+                    "MS",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "A. Cozari",
+            "courses": [
+                [
+                    "RO",
+                    "Seminar"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "A. Gaidarii",
+            "courses": [
+                [
+                    "MD",
+                    "Lab"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "A. Gonta",
+            "courses": [
+                [
+                    "CSA",
+                    "Curs"
+                ],
+                [
+                    "CSA",
+                    "Seminar"
+                ]
+            ],
+            "language": "French"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "A. Lupusor",
+            "courses": [
+                [
+                    "CSA",
+                    "Curs"
+                ],
+                [
+                    "CSA",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "A. Nastas",
+            "courses": [
+                [
+                    "GC",
+                    "Lab"
+                ],
+                [
+                    "GC",
+                    "Curs"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "A. Popovici",
+            "courses": [
+                [
+                    "SA",
+                    "Lab"
+                ]
+            ],
+            "language": "English"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "A. Puscasu",
+            "courses": [
+                [
+                    "LE",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "V. Orlov",
+            "courses": [
+                [
+                    "PP",
+                    "Lab"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "A. Rotari",
+            "courses": [
+                [
+                    "GC",
+                    "Lab"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "A. Rotari",
+            "courses": [
+                [
+                    "SDA",
+                    "Lab"
+                ],
+                [
+                    "SDA",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "A. Sisianu",
+            "courses": [
+                [
+                    "LE",
+                    "Seminar"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "A. Ursu",
+            "courses": [
+                [
+                    "GC",
+                    "Lab"
+                ],
+                [
+                    "GC",
+                    "Curs"
+                ]
+            ],
+            "language": "French"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "A. Vinari",
+            "courses": [
+                [
+                    "MD",
+                    "Lab"
+                ],
+                [
+                    "MD",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "A. Zgureanu",
+            "courses": [
+                [
+                    "Crip",
+                    "Curs"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "C. Crudu",
+            "courses": [
+                [
+                    "LE",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "C. Fistic",
+            "courses": [
+                [
+                    "MN",
+                    "Seminar"
+                ]
+            ],
+            "language": "English"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "C. Tintiuc",
+            "courses": [
+                [
+                    "LE",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "D. Barcari",
+            "courses": [
+                [
+                    "SDA",
+                    "Lab"
+                ],
+                [
+                    "SDA",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "D. Cozma",
+            "courses": [
+                [
+                    "AM2",
+                    "Curs"
+                ],
+                [
+                    "AM2",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "D. Istrati",
+            "courses": [
+                [
+                    "FR",
+                    "Seminar"
+                ]
+            ],
+            "language": "French"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "D. Prijilevschi",
+            "courses": [
+                [
+                    "CSA",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "D. Zgardan",
+            "courses": [
+                [
+                    "BB",
+                    "Curs"
+                ]
+            ],
+            "language": "Romanian "
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "E. Bucicovschi",
+            "courses": [
+                [
+                    "TW",
+                    "Lab"
+                ],
+                [
+                    "TW",
+                    "Curs"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "E. Bucicovschi",
+            "courses": [
+                [
+                    "GC",
+                    "Lab"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "E. Ciobanu",
+            "courses": [
+                [
+                    "MD",
+                    "Lab"
+                ],
+                [
+                    "MD",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "E. Cojuhari",
+            "courses": [
+                [
+                    "MS",
+                    "Curs"
+                ],
+                [
+                    "MS",
+                    "Seminar"
+                ]
+            ],
+            "language": "English"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "E. Cojuhari",
+            "courses": [
+                [
+                    "AM2",
+                    "Curs"
+                ],
+                [
+                    "AM2",
+                    "Seminar"
+                ]
+            ],
+            "language": "English"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "E. Gogoi",
+            "courses": [
+                [
+                    "LE",
+                    "Curs"
+                ],
+                [
+                    "LE",
+                    "Seminar"
+                ]
+            ],
+            "language": "English"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "E. Gogoi",
+            "courses": [
+                [
+                    "CSA",
+                    "Curs"
+                ],
+                [
+                    "CSA",
+                    "Seminar"
+                ]
+            ],
+            "language": "English"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "E. Hodinitu",
+            "courses": [
+                [
+                    "RO",
+                    "Seminar"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "E. Nemerenco",
+            "courses": [
+                [
+                    "Crip",
+                    "Lab"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "E. Nemerenco",
+            "courses": [
+                [
+                    "Crip",
+                    "Lab"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "E. Tocarschi",
+            "courses": [
+                [
+                    "CSA",
+                    "Curs"
+                ],
+                [
+                    "CSA",
+                    "Seminar"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "G. Ceban",
+            "courses": [
+                [
+                    "MD",
+                    "Curs"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "G. Cebotari",
+            "courses": [
+                [
+                    "MD",
+                    "Curs"
+                ],
+                [
+                    "MD",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "G. Flocea",
+            "courses": [
+                [
+                    "CSA",
+                    "Curs"
+                ],
+                [
+                    "CSA",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "G. Marusic",
+            "courses": [
+                [
+                    "MD",
+                    "Curs"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "I. Balmus",
+            "courses": [
+                [
+                    "MT",
+                    "Lab"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "I. Balmus",
+            "courses": [
+                [
+                    "MT",
+                    "Lab"
+                ],
+                [
+                    "MT",
+                    "Curs"
+                ]
+            ],
+            "language": "French"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "I. Bodnariuc",
+            "courses": [
+                [
+                    "GC",
+                    "Lab"
+                ],
+                [
+                    "GC",
+                    "Curs"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "I. Danilov",
+            "courses": [
+                [
+                    "SDA",
+                    "Curs"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "I. Lisnic",
+            "courses": [
+                [
+                    "MD",
+                    "Lab"
+                ],
+                [
+                    "MD",
+                    "Seminar"
+                ],
+                [
+                    "MD",
+                    "Curs"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "I. Sanduleac",
+            "courses": [
+                [
+                    "SA",
+                    "Lab"
+                ],
+                [
+                    "SA",
+                    "Seminar"
+                ]
+            ],
+            "language": "English"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "I. Sanduleac",
+            "courses": [
+                [
+                    "MT",
+                    "Lab"
+                ],
+                [
+                    "MT",
+                    "Curs"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "L. Brinzan",
+            "courses": [
+                [
+                    "SDA",
+                    "Lab"
+                ],
+                [
+                    "SDA",
+                    "Seminar"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "L. Dohotaru",
+            "courses": [
+                [
+                    "AM2",
+                    "Curs"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "L. Mihail-Velescu",
+            "courses": [
+                [
+                    "LE",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "L. Rotaru",
+            "courses": [
+                [
+                    "GC",
+                    "Curs"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "V. Rusu",
+            "courses": [
+                [
+                    "MS",
+                    "Seminar"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "L. Stanciu",
+            "courses": [
+                [
+                    "AM2",
+                    "Seminar"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "L. Tugarev",
+            "courses": [
+                [
+                    "CSA",
+                    "Curs"
+                ],
+                [
+                    "CSA",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "A. Rotari",
+            "courses": [
+                [
+                    "MS",
+                    "Seminar"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "M. Gaidau",
+            "courses": [
+                [
+                    "Proiect",
+                    "Seminar"
+                ]
+            ],
+            "language": "English"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "M. Golovaci",
+            "courses": [
+                [
+                    "RO",
+                    "Seminar"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "M. Gutu",
+            "courses": [
+                [
+                    "SDA",
+                    "Lab"
+                ],
+                [
+                    "SDA",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "M. Kulev",
+            "courses": [
+                [
+                    "SDA",
+                    "Curs"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "M. Mantaluta",
+            "courses": [
+                [
+                    "SDA",
+                    "Lab"
+                ],
+                [
+                    "SDA",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "M. Osovschi",
+            "courses": [
+                [
+                    "GC",
+                    "Lab"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "M. Rotaru",
+            "courses": [
+                [
+                    "Proiect",
+                    "Seminar"
+                ]
+            ],
+            "language": "English"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "M. Rotaru",
+            "courses": [
+                [
+                    "MD",
+                    "Lab"
+                ],
+                [
+                    "MD",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "N. Carbune",
+            "courses": [
+                [
+                    "CSA",
+                    "Curs"
+                ],
+                [
+                    "CSA",
+                    "Seminar"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "N. Falico",
+            "courses": [
+                [
+                    "SDA",
+                    "Curs"
+                ],
+                [
+                    "SDA",
+                    "Seminar"
+                ],
+                [
+                    "SDA",
+                    "Lab"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "N. Lupoi",
+            "courses": [
+                [
+                    "AM2",
+                    "Seminar"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "N. Palamarciuc",
+            "courses": [
+                [
+                    "MD",
+                    "Lab"
+                ],
+                [
+                    "MD",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "N. Vladei",
+            "courses": [
+                [
+                    "BB",
+                    "Lab"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "N. Vladei",
+            "courses": [
+                [
+                    "BB",
+                    "Lab"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "O. Razdoroinaia",
+            "courses": [
+                [
+                    "SDA",
+                    "Lab"
+                ],
+                [
+                    "SDA",
+                    "Seminar"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "O. Vacaras",
+            "courses": [
+                [
+                    "AM2",
+                    "Curs"
+                ],
+                [
+                    "AM2",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "O. Vacaras",
+            "courses": [
+                [
+                    "MS",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "P. Chircu",
+            "courses": [
+                [
+                    "MS",
+                    "Lab"
+                ],
+                [
+                    "MS",
+                    "Curs"
+                ],
+                [
+                    "MS",
+                    "Seminar"
+                ]
+            ],
+            "language": "French"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "P. Molosnic",
+            "courses": [
+                [
+                    "MS",
+                    "Curs"
+                ],
+                [
+                    "MS",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "R. Braniste",
+            "courses": [
+                [
+                    "PP",
+                    "Lab"
+                ],
+                [
+                    "PP",
+                    "Curs"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "R. Gorobet",
+            "courses": [
+                [
+                    "MT",
+                    "Lab"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "S. Andronic",
+            "courses": [
+                [
+                    "MT",
+                    "Curs"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "St. Stratulat",
+            "courses": [
+                [
+                    "SDA",
+                    "Lab"
+                ],
+                [
+                    "SDA",
+                    "Seminar"
+                ],
+                [
+                    "SDA",
+                    "Curs"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "T. Strukova",
+            "courses": [
+                [
+                    "MT",
+                    "Lab"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "T. Tiholaz",
+            "courses": [
+                [
+                    "MD",
+                    "Lab"
+                ],
+                [
+                    "MD",
+                    "Seminar"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "V. Astafi",
+            "courses": [
+                [
+                    "MD",
+                    "Lab"
+                ],
+                [
+                    "MD",
+                    "Seminar"
+                ],
+                [
+                    "MD",
+                    "Curs"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "V. Bobicev",
+            "courses": [
+                [
+                    "TW",
+                    "Curs"
+                ],
+                [
+                    "TW",
+                    "Lab"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "V. Bostan",
+            "courses": [
+                [
+                    "MN",
+                    "Curs"
+                ]
+            ],
+            "language": "English"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "V. Carbune",
+            "courses": [
+                [
+                    "GC",
+                    "Curs"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "V. Melnic",
+            "courses": [
+                [
+                    "MD",
+                    "Lab"
+                ],
+                [
+                    "MD",
+                    "Seminar"
+                ],
+                [
+                    "MD",
+                    "Curs"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "V. Melnic",
+            "courses": [
+                [
+                    "AM2",
+                    "Curs"
+                ],
+                [
+                    "AM2",
+                    "Seminar"
+                ]
+            ],
+            "language": "French"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "V. Melnic",
+            "courses": [
+                [
+                    "Proiect",
+                    "Seminar"
+                ]
+            ],
+            "language": "English"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "V. Mititelu",
+            "courses": [
+                [
+                    "SDA",
+                    "Lab"
+                ],
+                [
+                    "SDA",
+                    "Seminar"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "V. Orlov",
+            "courses": [
+                [
+                    "AM2",
+                    "Curs"
+                ],
+                [
+                    "AM2",
+                    "Seminar"
+                ]
+            ],
+            "language": "Russian "
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "V. Orlov",
+            "courses": [
+                [
+                    "MS",
+                    "Curs"
+                ],
+                [
+                    "MS",
+                    "Seminar"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "V. Pricop",
+            "courses": [
+                [
+                    "AM2",
+                    "Curs"
+                ],
+                [
+                    "AM2",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "V. Pricop",
+            "courses": [
+                [
+                    "MS",
+                    "Curs"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "V. Rusu",
+            "courses": [
+                [
+                    "SDA",
+                    "Lab"
+                ],
+                [
+                    "SDA",
+                    "Seminar"
+                ],
+                [
+                    "SDA",
+                    "Curs"
+                ]
+            ],
+            "language": "French"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "V. Rusu",
+            "courses": [
+                [
+                    "MT",
+                    "Lab"
+                ],
+                [
+                    "MT",
+                    "Curs"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "V. Seiciuc",
+            "courses": [
+                [
+                    "AM2",
+                    "Curs"
+                ],
+                [
+                    "AM2",
+                    "Seminar"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "V. Struna",
+            "courses": [
+                [
+                    "PP",
+                    "Lab"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "V. Struna",
+            "courses": [
+                [
+                    "GC",
+                    "Lab"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "V. Subbotchin",
+            "courses": [
+                [
+                    "GC",
+                    "Lab"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "V. Toncu",
+            "courses": [
+                [
+                    "SDA",
+                    "Lab"
+                ],
+                [
+                    "SDA",
+                    "Seminar"
+                ],
+                [
+                    "SDA",
+                    "Curs"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "V. Tronciu",
+            "courses": [
+                [
+                    "SA",
+                    "Curs"
+                ]
+            ],
+            "language": "English"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "V. Tutunaru",
+            "courses": [
+                [
+                    "SDA",
+                    "Lab"
+                ],
+                [
+                    "SDA",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "A. Cazac",
+            "courses": [
+                [
+                    "SDA",
+                    "Lab"
+                ],
+                [
+                    "SDA",
+                    "Seminar"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "A. Nastas",
+            "courses": [
+                [
+                    "GC",
+                    "Lab"
+                ],
+                [
+                    "GC",
+                    "Curs"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "A. Puscasu",
+            "courses": [
+                [
+                    "LE",
+                    "Seminar"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "A. Sisianu",
+            "courses": [
+                [
+                    "LE",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "A. Ursu",
+            "courses": [
+                [
+                    "GC",
+                    "Lab"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "C. Tintiuc",
+            "courses": [
+                [
+                    "LE",
+                    "Seminar"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "D. Zgardan",
+            "courses": [
+                [
+                    "BB",
+                    "Curs"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "D. Zgardan",
+            "courses": [
+                [
+                    "BB",
+                    "Curs"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "E. Nemerenco",
+            "courses": [
+                [
+                    "Crip",
+                    "Lab"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "E. Nemerenco",
+            "courses": [
+                [
+                    "Crip",
+                    "Lab"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "I. Lisnic",
+            "courses": [
+                [
+                    "MD",
+                    "Lab"
+                ],
+                [
+                    "MD",
+                    "Seminar"
+                ],
+                [
+                    "MD",
+                    "Curs"
+                ]
+            ],
+            "language": "French"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "L. Mihail-Velescu",
+            "courses": [
+                [
+                    "LE",
+                    "Seminar"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "L. Stanciu",
+            "courses": [
+                [
+                    "AM2",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "N. Burlacu",
+            "courses": [
+                [
+                    "SDA",
+                    "Lab"
+                ],
+                [
+                    "SDA",
+                    "Seminar"
+                ],
+                [
+                    "SDA",
+                    "Curs"
+                ]
+            ],
+            "language": "English"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "R. Braniste",
+            "courses": [
+                [
+                    "PP",
+                    "Lab"
+                ],
+                [
+                    "PP",
+                    "Curs"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "V. Astafi",
+            "courses": [
+                [
+                    "MD",
+                    "Lab"
+                ],
+                [
+                    "MD",
+                    "Seminar"
+                ],
+                [
+                    "MD",
+                    "Curs"
+                ]
+            ],
+            "language": "French"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "V. Rusu",
+            "courses": [
+                [
+                    "MS",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romania"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": "V. Rusu",
+            "courses": [
+                [
+                    "MT",
+                    "Lab"
+                ],
+                [
+                    "MT",
+                    "Curs"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": " ",
+            "courses": [
+                [
+                    "Ed. Fiz",
+                    "Seminar"
+                ]
+            ],
+            "language": "Romanian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": " ",
+            "courses": [
+                [
+                    "Ed. Fiz",
+                    "Seminar"
+                ]
+            ],
+            "language": "Russian"
+        }
+    },
+    {
+        "type": "Teacher",
+        "data": {
+            "name": " ",
+            "courses": [
+                [
+                    "Ed. Fiz",
+                    "Seminar"
+                ]
+            ],
+            "language": "English"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "SDA",
+            "course_type": "Seminar"
+        }
+    },
+    {
+        "type": "Course",
+        "data": {
+            "name": "Ed. Fiz",
             "course_type": "Seminar"
         }
     },

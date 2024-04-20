@@ -11,3 +11,5 @@ class User(db.Model):
     id = db.Column(db.String(32), primary_key=True, unique=True,default=get_uuid)
     email = db.Column(db.String(345),unique=True)
     password = db.Column(db.Text, nullable=False)
+    ScheduleData = db.Column(db.Text, nullable=True)
+    Schedule = db.Column(db.Text, nullable=True)

@@ -1,3 +1,5 @@
+
+
 .header{
     display: flex;
     flex-direction: column;
@@ -65,14 +67,25 @@
   background-color: #e0c271;
   
 }
+
+.submit-button{
+    margin-top: 20px;
+    color: #E85D56;
+    background-color: #f7b780;
+    border-radius: 20px;
+    height: 50px;
+    font-size: 25px;
+    width: 120px;
+}
 .info-box{
     display:flex;
     flex-direction: row;
 }
 .var-name{
-    text-decoration: #4c00b4;
+    text-decoration:inherit;
     display: flex;
     width: 80px;
+    color:#4c00b4;
     flex-direction: row;
     margin-left:20px;
 }
@@ -90,9 +103,9 @@
 .login-box{
     display:flex;
     flex-direction: column;
-    background-color: rgb(177, 88, 28);
+    background-color: rgb(210, 139, 91);
     align-self: center;
-    width: 70vh;
+    width: 61vh;
     height:30vh;
     border-radius: 10px;
 }

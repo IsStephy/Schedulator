@@ -3,7 +3,9 @@ import Sidebar from '../Sidebar'
 
 function DashboardPage() {
   return(
-    <Sidebar />
+    <div>
+      <Sidebar />
+    </div>
   )
 }
 
