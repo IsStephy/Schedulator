@@ -71,7 +71,6 @@ def create_the_schedule():
 def get_current_user_id():
     user_id = session.get('user_id', None)
     if user_id is None:
-        # Handle the case where there is no user logged in
         return None
     return user_id
 

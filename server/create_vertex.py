@@ -2,11 +2,12 @@ import json
 import networkx as nx
 import matplotlib.pyplot as plt
 from classes import Teacher, Course, Group, Offices
+from models import db, User
 
 
-def load_data_from_json(file_path):
-    with open(file_path, 'r') as file:
-        data = json.load(file)
+def load_data_from_json(user_id):
+    user = db.query.get(user_id)
+    data = json.load(user.schedule_data)
     teachers, courses, groups, offices = [], [], [], []
     for entry in data:
         if entry['type'] == 'Teacher':
@@ -99,8 +100,8 @@ def custom_coloring(G, num_slots_per_day):
     return colors
 
 
-def create_graph_and_apply_coloring(json_file, num_slots_per_day):
-    teachers, courses, groups, offices = load_data_from_json(json_file)
+def create_graph_and_apply_coloring(user_id, num_slots_per_day):
+    teachers, courses, groups, offices = load_data_from_json(user_id)
     tuples_list = create_list_of_tuples(teachers, courses, groups, offices)
     G = nx.Graph()
     for class1 in tuples_list:
