@@ -6,7 +6,6 @@ function AddProfessorModal({ isOpen, onClose, onSubmit, professor, setProfessor 
   if (!isOpen) return null;
 
   const handleCourseChange = (e) => {
-    // Splitting the input by comma to separate course name and type
     const parts = e.target.value.split(',').map(part => part.trim());
     const courses = [{
         name: parts[0] || '', 
@@ -91,9 +90,8 @@ const handleAddProfessor = (professor) => {
   .then(data => {
     console.log(data.message);
     if (data.message === 'Professor added successfully') {
-      // Add the new professor to the current list
       setTeachers(prevTeachers => [...prevTeachers, {...professor, id: data.newId}]); // Assuming your backend returns a newId
-      setNewProfessor({ name: '', courses: [], language: '' }); // Reset form
+      setNewProfessor({ name: '', courses: [], language: '' }); 
     }
   })
   .catch(error => console.error('Error adding professor:', error));
@@ -107,14 +105,6 @@ const handleAddProfessor = (professor) => {
   return (
     <div className='app_container'>
       <Sidebar />
-      <button onClick={() => setIsModalOpen(true)} className="add-button">+</button>
-      <AddProfessorModal
-        isOpen={isModalOpen}
-        onClose={() => setIsModalOpen(false)}
-        onSubmit={handleAddProfessor}
-        professor={newProfessor}
-        setProfessor={setNewProfessor}
-      />
       <div className='content_wrapper'>
     <div className='search-container'>
       <input
@@ -124,6 +114,16 @@ const handleAddProfessor = (professor) => {
         onChange={e => setSearchQuery(e.target.value)}
         className='search-box'
       />
+      <div className='add-container'>
+      <button onClick={() => setIsModalOpen(true)} className="add-button">+</button>
+      <AddProfessorModal
+        isOpen={isModalOpen}
+        onClose={() => setIsModalOpen(false)}
+        onSubmit={handleAddProfessor}
+        professor={newProfessor}
+        setProfessor={setNewProfessor}
+      />
+      </div>
     </div>
     <div className='display_box'>
         <table className='list_table'>
@@ -141,7 +141,7 @@ const handleAddProfessor = (professor) => {
                 <td>{index + 1}</td>
                 <td>{teacher.name}</td>
                 <td className='courses'>{teacher.courses.map(course => (
-                  <span key={course}>{course.name}, {course.course_type} </span>
+                  <span key={course}>{course[0]}, {course[1]} </span>
                 ))}</td>
                 <td>{teacher.language}</td>
               </tr>

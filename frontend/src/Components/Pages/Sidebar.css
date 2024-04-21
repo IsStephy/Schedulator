@@ -14,7 +14,7 @@
     justify-content: center; /* Center children vertically */
     backdrop-filter: blur(10px); /* Apply backdrop blur for a translucent effect */
     border-radius: 50px;
-    z-index: 0;
+    z-index: 1;
   }
 
   .naming-box{
@@ -30,10 +30,10 @@
   }
 
 .Sidebar {
+    position: fixed;
     padding-top: 100px;
     height:auto;
     width:210px;
-    z-index: 1;
     
 }
 

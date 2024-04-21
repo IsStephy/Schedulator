@@ -32,11 +32,16 @@ def Teach(teachers):
 
 def Grup(groups):
     group_list = []
-    n = 0
-    for group in groups:
-        n += 1
-        group_list.append(group)
-    return n,group_list
+    for entry in groups:
+        if entry['type'] == 'Group':
+            group_data = entry['data']
+            formatted_group = {
+                'name': group_data['name'],
+                'courses': group_data['courses'],
+                'language': group_data['language']
+            }
+            group_list.append(formatted_group)
+    return len(group_list), group_list
 
 def Office(offices):
     office_list = []

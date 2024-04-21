@@ -1,11 +1,33 @@
 .app_container{
     display:flex;
+    flex-direction: column;
+    width: 100%;
+}
+.Sidebar {
+    position: fixed; /* or 'absolute' depending on layout needs */
+    top: 50px;
+    left: 30px;
+    width: 210px; /* Adjust width as needed */
+    height: 100%;
+    z-index: 1000; /* High z-index to ensure it's on top */
+}
+
+/* Adjust the main content container to not overlap the sidebar */
+.content_wrapper {
+    margin-left: 210px; /* Adjust this value to match the sidebar width */
+    width: calc(100% - 210px); /* Adjust the width to account for the sidebar */
+    min-height: 100vh; /* Full viewport height */
+    z-index: 1; /* Lower z-index than sidebar */
+    padding: 20px; /* Optional padding for spacing */
 }
 
 .list_content{
     display: flex;
     flex-direction: row;
 }
+
+
+
 .list{
     list-style-type: decimal !important;  /* Confirm this to ensure numbers should appear */
     padding-left: 40px;        /* Increase padding to ensure numbers are visible */
@@ -24,7 +46,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    z-index: 2;
   }
   
   .modal {
@@ -32,7 +53,6 @@
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-    z-index: 2;
   }
   
 
@@ -41,8 +61,9 @@
     position: relative;
     height: 30vh;
     width: 50vw;
-    margin-left: 20vw;
-    margin-top: 10vh;
+    margin-left: 5vw;
+    margin-top: 2vh;
+    z-index: 5;
     overflow-y: auto;
     overflow-x: hidden;
     background-color: #f1f1f1;
@@ -53,9 +74,31 @@
     position: relative;
     width: 25vw;
     height: 5vh;
-    margin-top: 33vh;
-    margin-left: 20vw;
+    margin-top: 25vh;
+    margin-left: 5vw;
 }
+.search-container{
+    display: flex;
+    flex-direction: row;
+}
+.add-button {
+    position: relative;
+    margin-top: 33vh;
+    margin-left: 22vw;
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+}
+
+.add-button:hover {
+    background-color: #0056b3;
+}
+
+
 .courses{
     display: flex;
     flex-direction: column;

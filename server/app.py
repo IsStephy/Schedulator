@@ -7,7 +7,7 @@ from models import db, User
 import json
 from create_schedule import create_schedule_dataframe,save_schedule_as_image
 from create_vertex import create_graph_and_apply_coloring
-from functions import load_data_from_json,Teach
+from functions import load_data_from_json,Teach , Grup
 from classes import Teacher
 from add_del import add_data_to_json, data_exists_in_json, remove_data_from_json
 
@@ -111,6 +111,43 @@ def remove_professor():
 
     remove_data_from_json(user_id, name)
     return jsonify({'message': 'Professor removed successfully'}), 200
+
+@app.route('/groups')
+def get_group_data():
+    user_id = get_current_user_id()
+    user = User.query.get(user_id)
+    if not user or not user.ScheduleData:
+        return jsonify({"error": "No schedule data found"}), 404
+
+    try:
+        if user.ScheduleData:
+            schedule_data = json.loads(user.ScheduleData)
+            _, groups = Grup(schedule_data)  # Assuming Teach returns count and list
+            return jsonify({'count': len(groups), 'groups': groups})
+        else:
+            return jsonify({'count': 0, 'groups': []})  # No data to show
+    except json.JSONDecodeError:
+        return jsonify({"error": "Failed to decode JSON"}), 500
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+@app.route('/add-group', methods=['POST'])
+def add_group():
+    user_id = get_current_user_id()
+    group_data = request.json.get('data')
+
+    if not user_id:
+        return jsonify({'error': 'User not logged in'}), 401
+
+    # Convert courses into the required format if necessary
+    courses = [{'name': course['name'], 'type': course['type']} for course in group_data['courses']]
+    group_data['courses'] = courses
+
+    # Assuming the use of an existing function to add to JSON
+    if add_data_to_json(user_id, 'Group', group_data):
+        return jsonify({'message': 'Group added successfully'})
+    else:
+        return jsonify({'error': 'Failed to add group'})
 
 
 def create_the_schedule():

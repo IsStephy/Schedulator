@@ -2,7 +2,6 @@ import React, {useState, useEffect} from 'react'
 import Sidebar from '../Sidebar'
 
 
-
 function CoursesPage() {
   const [data, setData] = useState([]);
 
