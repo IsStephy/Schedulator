@@ -5,6 +5,17 @@ import "./MainFunctions.css";
 function AddProfessorModal({ isOpen, onClose, onSubmit, professor, setProfessor }) {
   if (!isOpen) return null;
 
+  const handleCourseChange = (e) => {
+    // Splitting the input by comma to separate course name and type
+    const parts = e.target.value.split(',').map(part => part.trim());
+    const courses = [{
+        name: parts[0] || '', 
+        course_type: parts[1] || ''
+    }];
+    setProfessor({ ...professor, courses });
+};
+
+
   return (
     <div className="modal-backdrop">
       <div className="modal">
@@ -23,9 +34,8 @@ function AddProfessorModal({ isOpen, onClose, onSubmit, professor, setProfessor 
           />
           <input 
             type="text"
-            placeholder="Courses"
-            value={professor.courses}
-            onChange={e => setProfessor({ ...professor, courses: e.target.value })}
+            placeholder="Courses (name,type)"
+            onChange={handleCourseChange}
             required
           />
           <input 
@@ -42,6 +52,7 @@ function AddProfessorModal({ isOpen, onClose, onSubmit, professor, setProfessor 
     </div>
   );
 }
+
 
 
 function ProfessorsPage() {
@@ -67,24 +78,27 @@ function ProfessorsPage() {
 }, []);
 
 
-  const handleAddProfessor = (professor) => {
-    fetch('http://localhost:5000/add-professor', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      credentials: 'include',
-      body: JSON.stringify({data: professor }),
-    })
-    .then(response => response.json())
-    .then(data => {
-      console.log(data.message);
-      const newProfessorWithCoursesArray = {...newProfessor, courses: Array.isArray(newProfessor.courses) ? newProfessor.courses : [newProfessor.courses]};
-      setTeachers([...teachers, newProfessorWithCoursesArray]);
+const handleAddProfessor = (professor) => {
+  fetch('http://localhost:5000/add-professor', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    credentials: 'include',
+    body: JSON.stringify({ data: professor }),
+  })
+  .then(response => response.json())
+  .then(data => {
+    console.log(data.message);
+    if (data.message === 'Professor added successfully') {
+      // Add the new professor to the current list
+      setTeachers(prevTeachers => [...prevTeachers, {...professor, id: data.newId}]); // Assuming your backend returns a newId
       setNewProfessor({ name: '', courses: [], language: '' }); // Reset form
-    })
-    .catch(error => console.error('Error adding professor:', error));
-  };
+    }
+  })
+  .catch(error => console.error('Error adding professor:', error));
+};
+
 
   const filteredTeachers = teachers.filter(teacher =>
     teacher.name.toLowerCase().includes(searchQuery.toLowerCase())
@@ -127,7 +141,7 @@ function ProfessorsPage() {
                 <td>{index + 1}</td>
                 <td>{teacher.name}</td>
                 <td className='courses'>{teacher.courses.map(course => (
-                  <span key={course}>{course}, </span>
+                  <span key={course}>{course.name}, {course.course_type} </span>
                 ))}</td>
                 <td>{teacher.language}</td>
               </tr>
