@@ -1,21 +1,20 @@
 import json
 from classes import Teacher, Course, Group, Offices
 from typing import Any
-from models import db
+from models import db, User
 
 
-def data_exists_in_json(user_id, data: Any) -> bool:
+def data_exists_in_json(user_id, data):
+    user = User.query.get(user_id)
+    if not user.ScheduleData:
+        return False
     try:
-        user = db.query.get(user_id)
         existing_data = json.loads(user.ScheduleData)
         for entry in existing_data:
-            if entry['type'] == 'Group' and entry['data']['name'] == data.name:
+            if entry['data']['name'] == data.name:
                 return True
-    except (
-            FileNotFoundError):
-        pass
     except Exception as e:
-        print("Error checking data in JSON:", e)
+        print(f"Error checking data existence: {e}")
     return False
 
 
@@ -23,12 +22,12 @@ def add_data_to_json(user_id, data_type: str, data: Any):
     try:
         if not data_exists_in_json(user_id, data):
             try:
-                user = db.query.get(user_id)
+                user = User.query.get(user_id)
                 existing_data = json.loads(user.ScheduleData)
             except json.decoder.JSONDecodeError:
                 existing_data = []
 
-            data_dict = {"type": data_type, "data": data.__dict__}
+            data_dict = {"type": data_type, "data": data.__dict__ if hasattr(data, '__dict__') else data}
             existing_data.append(data_dict)
             user.ScheduleData = json.dumps(existing_data)
             db.session.commit()
@@ -38,7 +37,7 @@ def add_data_to_json(user_id, data_type: str, data: Any):
 
 def remove_data_from_json(user_id, name):
     try:
-        user = db.query.get(user_id)
+        user = User.query.get(user_id)
         if user and user.ScheduleData:
             data = json.loads(user.ScheduleData)
             updated_data = [entry for entry in data if entry['data']['name'] != name]

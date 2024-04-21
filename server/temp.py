@@ -28,7 +28,7 @@ def update_user_schedule(user_id, schedule_data):
 file_path = 'file_1.json'
 json_data = load_json_data(file_path)
 if json_data:
-    user_id = "65cefe30c11a4ad7bcb7df25a69fcea4"
+    user_id = "a691c6492b574010941815f99a0b6a16"
     result = update_user_schedule(user_id, json_data)  # Pass the loaded JSON data directly
     print(result)
 else:

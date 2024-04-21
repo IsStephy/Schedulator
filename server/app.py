@@ -8,6 +8,8 @@ import json
 from create_schedule import create_schedule_dataframe,save_schedule_as_image
 from create_vertex import create_graph_and_apply_coloring
 from functions import load_data_from_json,Teach
+from classes import Teacher
+from add_del import add_data_to_json, data_exists_in_json, remove_data_from_json
 
 app = Flask(__name__)
 app.config.from_object(ApplicationConfig)
@@ -71,14 +73,44 @@ def get_teach_data():
         return jsonify({"error": "No schedule data found"}), 404
 
     try:
-        schedule_data = json.loads(user.ScheduleData)
-        # Assuming schedule_data is a list of entries
-        _, teachers = Teach(schedule_data)  # Using the revised Teach function
-        return jsonify({'count': len(teachers), 'teachers': teachers})
+        if user.ScheduleData:
+            schedule_data = json.loads(user.ScheduleData)
+            _, teachers = Teach(schedule_data)  # Assuming Teach returns count and list
+            return jsonify({'count': len(teachers), 'teachers': teachers})
+        else:
+            return jsonify({'count': 0, 'teachers': []})  # No data to show
     except json.JSONDecodeError:
         return jsonify({"error": "Failed to decode JSON"}), 500
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+
+@app.route('/add-professor', methods=['POST'])
+def add_professor():
+    print("Received data:", request.json)
+    user_id = session.get('user_id')
+    if not user_id:
+        return jsonify({'error': 'User not logged in'}), 401
+
+    try:
+        data = request.json.get('data')
+        new_teacher = Teacher(name=data['name'], courses=data['courses'], language=data['language'])  # adjust according to actual constructor
+
+        add_data_to_json(user_id, 'Teacher', new_teacher)
+        return jsonify({'message': 'Professor added successfully'}), 200
+    except KeyError as e:
+        return jsonify({'error': f'Missing key {str(e)}'}), 400
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+
+
+@app.route('/remove-professor', methods=['POST'])
+def remove_professor():
+    user_id = request.json.get('userId')
+    name = request.json.get('name')
+
+    remove_data_from_json(user_id, name)
+    return jsonify({'message': 'Professor removed successfully'}), 200
 
 
 def create_the_schedule():
