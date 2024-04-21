@@ -1,0 +1,68 @@
+.app_container{
+    display:flex;
+}
+
+.list_content{
+    display: flex;
+    flex-direction: row;
+}
+.list{
+    list-style-type: decimal !important;  /* Confirm this to ensure numbers should appear */
+    padding-left: 40px;        /* Increase padding to ensure numbers are visible */
+    top: 0;                    /* Positioning inside relative container */
+    left: 0;
+    right: 0;
+    background-color: transparent;
+}
+
+
+
+.display_box {
+    position: relative;
+    height: 30vh;
+    width: 50vw;
+    margin-left: 20vw;
+    margin-top: 10vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    background-color: #f1f1f1;
+    border-radius: 10px;
+    padding-right: 20px; /* Adds padding inside the box to prevent content from touching the edges */
+}
+.search-box{
+    position: relative;
+    width: 25vw;
+    height: 5vh;
+    margin-top: 33vh;
+    margin-left: 20vw;
+}
+.courses{
+    display: flex;
+    flex-direction: column;
+}
+.list_table td {
+    padding-top:20px; 
+    padding-left:30px; 
+    padding-right:30px; 
+  }
+
+.display_box::-webkit-scrollbar {
+    width: 12px;  
+}
+
+
+.display_box::-webkit-scrollbar-thumb {
+    background-color: darkgrey;
+    border-radius: 10px;
+}
+
+
+.display_box::-webkit-scrollbar-button {
+    display: none; 
+}
+
+
+.display_box::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 10px;
+}

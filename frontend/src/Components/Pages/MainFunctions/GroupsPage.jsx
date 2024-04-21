@@ -1,10 +1,10 @@
 import React from 'react'
 import Sidebar from '../Sidebar'
 
-function DashboardPage() {
+function GroupsPage() {
   return(
     <Sidebar />
   )
 }
 
-export default DashboardPage
+export default GroupsPage

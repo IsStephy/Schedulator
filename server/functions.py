@@ -2,8 +2,8 @@ import json
 from classes import Teacher, Group, Offices
 from models import db, User
 def load_data_from_json(user_id):
-    user = db.query.get(user_id)
-    data = json.load(user.ScheduleData)
+    user =  User.query.get(user_id)
+    data = json.loads(user.ScheduleData)
     teachers, groups, offices = [], [], []
     for entry in data:
         if entry['type'] == 'Teacher':
@@ -18,12 +18,17 @@ def load_data_from_json(user_id):
     return teachers, groups, offices
 
 def Teach(teachers):
-    n = 0;
     teach_list = []
-    for teacher in teachers:
-        n += 1
-        teach_list.append(teacher)
-    return n, teach_list
+    for entry in teachers:
+        if entry['type'] == 'Teacher':
+            teacher_data = entry['data']
+            formatted_teacher = {
+                'name': teacher_data['name'],
+                'courses': teacher_data['courses'],
+                'language': teacher_data['language']
+            }
+            teach_list.append(formatted_teacher)
+    return len(teach_list), teach_list
 
 def Grup(groups):
     group_list = []

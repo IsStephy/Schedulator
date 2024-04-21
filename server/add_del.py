@@ -11,7 +11,8 @@ def data_exists_in_json(user_id, data: Any) -> bool:
         for entry in existing_data:
             if entry['type'] == 'Group' and entry['data']['name'] == data.name:
                 return True
-    except FileNotFoundError:
+    except (
+            FileNotFoundError):
         pass
     except Exception as e:
         print("Error checking data in JSON:", e)
