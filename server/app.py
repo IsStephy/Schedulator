@@ -159,7 +159,7 @@ def create_the_schedule():
 
 def get_current_user_id():
     user_id = session.get('user_id', None)
-    if user_id is None:
+    if user_id is None: 
         return None
     return user_id
 
