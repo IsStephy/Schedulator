@@ -8,7 +8,7 @@ import json
 from create_schedule import create_schedule_dataframe,save_schedule_as_image
 from create_vertex import create_graph_and_apply_coloring
 from functions import load_data_from_json,Teach , Grup
-from classes import Teacher
+from classes import Teacher,Group
 from add_del import add_data_to_json, data_exists_in_json, remove_data_from_json
 
 app = Flask(__name__)
@@ -133,21 +133,22 @@ def get_group_data():
 
 @app.route('/add-group', methods=['POST'])
 def add_group():
-    user_id = get_current_user_id()
-    group_data = request.json.get('data')
-
+    print("Received data:", request.json)
+    user_id = session.get('user_id')
     if not user_id:
         return jsonify({'error': 'User not logged in'}), 401
 
-    # Convert courses into the required format if necessary
-    courses = [{'name': course['name'], 'type': course['type']} for course in group_data['courses']]
-    group_data['courses'] = courses
+    try:
+        data = request.json.get('data')
+        new_group = Group(name=data['name'], courses=data['courses'],
+                          language=data['language'])  # adjust according to actual constructor
 
-    # Assuming the use of an existing function to add to JSON
-    if add_data_to_json(user_id, 'Group', group_data):
-        return jsonify({'message': 'Group added successfully'})
-    else:
-        return jsonify({'error': 'Failed to add group'})
+        add_data_to_json(user_id, 'Group', new_group)
+        return jsonify({'message': 'Professor added successfully'}), 200
+    except KeyError as e:
+        return jsonify({'error': f'Missing key {str(e)}'}), 400
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
 
 
 def create_the_schedule():
